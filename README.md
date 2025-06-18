@@ -1,0 +1,2 @@
+# DegenSolana
+Solana HIT
